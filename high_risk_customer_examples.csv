@@ -1,0 +1,11 @@
+customer_id,city_tier,acquisition_channel,total_orders,total_spend,total_tickets,average_sentiment,sessions_30d,last_campaign_received
+CUST01657,Tier 2,Google Search,1,149.0,0.0,0.0,2,new_launch
+CUST01176,Tier 1,Organic,1,149.0,0.0,0.0,6,none
+CUST01748,Tier 3,Google Search,1,150.03,0.0,0.0,4,new_launch
+CUST00602,Tier 3,Influencer,1,171.18,0.0,0.0,5,new_launch
+CUST00207,Tier 1,Influencer,1,193.1,0.0,0.0,11,none
+CUST01262,Tier 1,Influencer,1,195.09,0.0,0.0,11,welcome_offer
+CUST00239,Tier 1,Instagram,1,208.1,0.0,0.0,4,bundle_discount
+CUST02235,Tier 2,Referral,1,221.66,0.0,0.0,1,free_shipping
+CUST01338,Tier 3,Organic,1,232.88,1.0,-0.74,14,bundle_discount
+CUST01020,Tier 1,Referral,1,236.73,0.0,0.0,1,new_launch
