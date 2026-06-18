@@ -3,11 +3,11 @@
 
 ## Project Overview
 
-This repository contains Part 1 of the D2C Customer Churn Intelligence Capstone Project.
+This repository covers part 1 of the D2C customer Churn intelligence Capstone project.
 
-The objective of this phase is to perform a comprehensive audit of the raw business datasets, understand customer behavior patterns, identify possible churn drivers, and convert analytical findings into business recommendations.
+The goal of this section is to conduct a comprehensive audit of the uncooked business data sets, understand buyer behavior patterns, become aware of viable churn drivers, and convert analytical findings into business advice.
 
-This work serves as the foundation for future customer segmentation, churn prediction modeling, and retention strategy development.
+This work serves as a foundation for destiny user segmentation, churn prediction modeling, and retention method improvement.
 
 ---
 
@@ -180,7 +180,6 @@ This repository satisfies the Part 1 submission requirements:
 ---
 
 ## Final Note
+This inventory is intentionally designed as a standalone submission.
 
-This repository is intentionally designed as a standalone submission.
-
-An evaluator can understand the business objective, reproduce the analysis, review evidence, and continue to later capstone phases without requiring any additional repositories.
+An appraiser can understand the business objective, reproduce the analysis, the appraisal evidence and preserve for later main phases without requiring any additional reserves.
