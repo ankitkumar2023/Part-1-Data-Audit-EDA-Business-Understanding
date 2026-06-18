@@ -7,10 +7,9 @@
 
 ### Executive Summary
 
-A detailed audit and exploratory analysis were conducted across customer profiles, purchase behavior, support interactions, digital engagement, and previous retention campaigns.
+A distinctive audit and exploratory analysis have been conducted on all consumer profiles, buying behavior, assistance interactions, virtual engagement, and previous retention campaigns.
 
-The objective was not to immediately distribute discounts to every customer but to identify behavioral signals associated with increased churn risk.
-
+The goal was not to distribute reductions to every buyer at the moment, but to identify behavioral indicators related to increased churn risk.
 ---
 
 ## Priority Investigation Areas
